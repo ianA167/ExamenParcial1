@@ -1,5 +1,5 @@
 # ExamenParcial1
 ##Cursos que me gustaron durante el ciclo
--Introduccion a la programacion
--Introduccion a la ingenieria en sistemas
--Mate 1 
+1. Introduccion a la programacion
+2. Introduccion a la ingenieria en sistemas
+3. Mate 1 
