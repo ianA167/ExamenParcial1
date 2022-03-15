@@ -1,0 +1,6 @@
+print("ingrese el numero en x")
+x=float(input())
+print("ingrese el numero en y")
+y=float(input())
+z=5*(x+y)
+print(z)
